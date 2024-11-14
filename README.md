@@ -5,10 +5,10 @@ This dataset provides a comprehensive overview of various factors affecting stud
 
 | Attribute                 | Description                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
-| **Hours_Studied**         | Weekly hours dedicated to studying.                                         |
+| **Hours Studied**         | Weekly hours dedicated to studying.                                         |
 | **Attendance**            | Percentage of classes attended.                                             |
-| **Parental_Involvement**  | Degree of parental involvement in education (Low, Medium, High).            |
-| **Access_to_Resources**   | Availability of educational resources (Low, Medium, High).                   |
+| **Parental Involvement**  | Degree of parental involvement in education (Low, Medium, High).            |
+| **Access to Resources**   | Availability of educational resources (Low, Medium, High).                   |
 | **Extracurricular_Activities** | Participation in extracurricular activities (Yes, No).                    |
 | **Sleep_Hours**           | Average hours of sleep per night.                                            |
 | **Previous_Scores**       | Scores from prior exams.                                                     |
@@ -27,4 +27,4 @@ This dataset provides a comprehensive overview of various factors affecting stud
 | **Exam_Score**            | Final exam score.                                                            |
 
 
-Finally
+Finally.
